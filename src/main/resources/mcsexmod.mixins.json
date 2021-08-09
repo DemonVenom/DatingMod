@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "com.demonvenom.datingmod.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MobEntityMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

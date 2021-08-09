@@ -1,0 +1,16 @@
+{
+  "item.mcdatingmod.dildo": "Dildo",
+  "item.mcdatingmod.cum": "Cum",
+  "item.mcdatingmod.girlfriend_egg": "Girlfriend Spawn Egg",
+  "item.mcdatingmod.boyfriend_egg": "Boyfriend Spawn Egg",
+  "block.mcdatingmod.cum_block": "Cum Block",
+  "itemGroup.mcdatingmod.general": "Minecraft Sex Mod",
+  "entity.mcdatingmod.girlfriend": "Girlfriend",
+  "entity.mcdatingmod.boyfriend": "Boyfriend",
+  "text.autoconfig.mcdatingmod.category.default": "Spawning",
+  "text.autoconfig.mcdatingmod.option.spawnWeight.@PrefixText": "This config requires a game restart to apply.",
+  "text.autoconfig.mcdatingmod.option.spawnWeight": "Spawn Weight",
+  "text.autoconfig.mcdatingmod.option.spawnMinGroupSize": "Min Group Size",
+  "text.autoconfig.mcdatingmod.option.spawnMaxGroupSize": "Max Group Size",
+  "effect.mcdatingmod.love": "Love"
+}

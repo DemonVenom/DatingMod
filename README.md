@@ -12,7 +12,8 @@ This mod takes inspiration from the spirit of that meme, but for a similar video
 It is now possible to develop parasocial relationships with male and female entities within Minecraft. 
 This is done through "dates" that users can initiate with the male and female entities.
 Use the [lead](https://minecraft.fandom.com/wiki/Lead) item to go on walks with your boyfriend/girlfriend.
-Every entity has their own name, so none are the same. Up to 300 possible name possibilities!
+Every entity has their own name, so none are the same. Up to 300 possible name possibilities! 
+Spawn them into the world in Minecraft creative mode with the Boyfriend/Girlfriend spawn egg items!
 
 In conclusion your honor, it was done purely for the bit.
 
